@@ -1,4 +1,3 @@
-2nd Year Project - Home Alarm System (CADD)
 This repository contains the files for my 2nd Year project in CADD (Computer-Aided Digital Design). The project implements a simple Home Alarm System using the Basys 3 FPGA Board, LEDs, and a buzzer. The design is written in SystemVerilog, and the code is programmed using Xilinx Vivado.
 
 Project Structure
